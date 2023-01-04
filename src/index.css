@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+ @apply bg-gradient-to-r from-cyan-500 to-blue-500  m-0 p-0
+}
